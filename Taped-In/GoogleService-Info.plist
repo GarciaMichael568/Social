@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>563680775462-ki0nfvm8jul9ndclsktfoj8dns3s0m9v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.563680775462-ki0nfvm8jul9ndclsktfoj8dns3s0m9v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvOgFNYP1-BEwcV02j9AjRByN0e3ilKzM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>563680775462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KillerAppz.Taped-In</string>
+	<key>PROJECT_ID</key>
+	<string>taped-in</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taped-in.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:563680775462:ios:cdbd20f13485d7d72a85e7</string>
+</dict>
+</plist>
